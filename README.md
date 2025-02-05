@@ -21,10 +21,7 @@ These modules can be imported into `main.py` to boot up either a **TCP** or **UD
 
 📁 project-name/
 │── 📁 src/
-
 │   │── server.py   # Contains tcp_server() and udp_server()
-
 │── main.py                # Entry point to boot up the server
-
 │── README.md              # Documentation
 
