@@ -18,14 +18,10 @@ These modules can be imported into `main.py` to boot up either a **TCP** or **UD
 3. You can customize the host and port in main.py as needed.
 
 ## File Structure
-
+```bash
 📁 project-name/
-
 │── 📁 src/
-
 │   │── server.py   # Contains tcp_server() and udp_server()
-
 │── main.py                # Entry point to boot up the server
-
 │── README.md              # Documentation
 
